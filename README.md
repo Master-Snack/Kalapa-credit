@@ -1,3 +1,3 @@
 # Kalapa-credit
 
-<h1>Bài hoàn chỉnh ở version II</h1>
+<h1>Bài hoàn chỉnh ở tệp RF-XGBC</h1>
